@@ -1,0 +1,36 @@
+* {
+    text-align: center;
+    background-color: rgb(40, 163,149);
+   
+    font-weight: lighter;
+    margin: 0;
+}
+
+h1 {
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    
+
+}
+
+h2 {
+    
+    background-color: rgb(54, 142, 126);
+    padding: 5%;
+    color: aliceblue;
+
+
+}
+
+p {
+    font-size: small;
+    font-weight: lighter;
+}
+
+p strong {
+    font-size: 500%;
+    font-weight: lighter;
+    
+
+}
